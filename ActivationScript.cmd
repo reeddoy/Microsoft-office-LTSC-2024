@@ -25,7 +25,7 @@ if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" (
     echo.
     echo ============================================================================
     echo Activating your Office...
-    cscript ospp.vbs /sethst:ksm.03k.org
+    cscript ospp.vbs /sethst:kms.03k.org
     echo ============================================================================
     echo.
     echo.
