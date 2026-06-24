@@ -1,0 +1,16 @@
+#! Developed By Arif Elahi Redoy
+#! CoderXen LLC
+#! Github: https://github.com/reeddoy
+===========================================================
+
+
+1. At first run the DownloadScript.cmd and wait until it installed.
+
+2. Then check the Microsoft office is activated or not by opening any app (Ex. Word, Excell...)
+
+3. If not activated then run the ActivationScript. If Activated Skip this process
+
+4. Now Enjoy your Microsoft Office for lifetime.
+
+
+Thanks
