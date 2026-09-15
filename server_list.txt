@@ -1,5 +1,3 @@
-kms.03k.org:1688
-kms.digiboy.ir
 hq1.chinancce.com
 54.223.212.31
 kms.cnlic.com
@@ -14,3 +12,5 @@ kensol263.imwork.net:1688
 xykz.f3322.org
 kms789.com
 dimanyakms.sytes.net:1688
+kms.03k.org:1688
+kms.digiboy.ir
